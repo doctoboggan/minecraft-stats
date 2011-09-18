@@ -1,7 +1,6 @@
 #! /usr/bin/python
 
 import os, pexpect
-import MCServer
 
 #Open and read the HeroicDeath data log
 deathFile = open('/home/sa/bukkit/plugins/HeroicDeath/death_data.log', 'r')
